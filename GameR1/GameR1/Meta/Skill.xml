@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSkill xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Skill ID="0" Name="Leadership" BaseXP="1000" Levels="5" />
+  <Skill ID="1" Name="Science" BaseXP="1000" Levels="5" />
+  <Skill ID="2" Name="Engineering" BaseXP="1000" Levels="5" />
+  <Skill ID="3" Name="Diplomacy" BaseXP="1000" Levels="5" />
+  <Skill ID="4" Name="Economy" BaseXP="1000" Levels="5" />
+  <Skill ID="5" Name="Combat" BaseXP="1000" Levels="5" />
+  <Skill ID="6" Name="Force" BaseXP="5000" Levels="5" />
+</ArrayOfSkill>

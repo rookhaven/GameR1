@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFaction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Faction ID="0" Name="Independents" Type="Independent"/>
+  <Faction ID="1" Name="Galactic Republic" Type="Republic"/>
+  <Faction ID="2" Name="Sith Empire" Type="Empire"/>
+  <Faction ID="3" Name="Mandalorians" Type="Dictatorship"/>
+  <Faction ID="4" Name="Hutt Cartel" Type="Empire"/>
+  <Faction ID="5" Name="Zann Consortium" Type="Dictatorship"/>
+  <Faction ID="6" Name="Trade Federation" Type="Republic"/>
+  <Faction ID="7" Name="Black Sun" Type="Dictatorship"/>
+  <Faction ID="8" Name="Pikes" Type="Dictatorship" />
+  <Faction ID="9" Name="Zygerrians" Type="Empire"/>
+</ArrayOfFaction>

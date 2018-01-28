@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Variables xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StartDate>30520101</StartDate>
+  <Sectors>2</Sectors>
+  <StarsPerSector>2</StarsPerSector>
+  <PlanetsPerSystem>2</PlanetsPerSystem>
+  <ZonesPerPlanet>2</ZonesPerPlanet>
+  <DepositsPerZone>2</DepositsPerZone>
+</Variables>

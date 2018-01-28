@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfResource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Resource ID="0" Name="Hydrogen" Type="Gas" Credits="1"/>
+  <Resource ID="1" Name="Carbon" Type="Solid" Credits="2"/>
+  <Resource ID="2" Name="Oxygen" Type="Gas" Credits="2"/>
+  <Resource ID="3" Name="Iron Ore" Type="Solid" Credits="2"/>
+  <Resource ID="4" Name="Copper Ore" Type="Solid" Credits="2"/>
+  <Resource ID="5" Name="Nitrogen" Type="Gas" Credits="2"/>
+  <Resource ID="6" Name="Methane" Type="Gas" Credits="3"/>
+</ArrayOfResource>

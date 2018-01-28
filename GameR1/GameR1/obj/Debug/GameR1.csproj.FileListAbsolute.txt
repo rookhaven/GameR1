@@ -1,0 +1,11 @@
+C:\Users\Owner\Documents\Visual Studio 2017\GameR1\GameR1\bin\Debug\GameR1.exe
+C:\Users\Owner\Documents\Visual Studio 2017\GameR1\GameR1\bin\Debug\GameR1.pdb
+C:\Users\Owner\Documents\Visual Studio 2017\GameR1\GameR1\bin\Debug\MySql.Data.dll
+C:\Users\Owner\Documents\Visual Studio 2017\GameR1\GameR1\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Owner\Documents\Visual Studio 2017\GameR1\GameR1\bin\Debug\MySql.Data.xml
+C:\Users\Owner\Documents\Visual Studio 2017\GameR1\GameR1\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Owner\Documents\Visual Studio 2017\GameR1\GameR1\obj\Debug\GameR1.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2017\GameR1\GameR1\obj\Debug\GameR1.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2017\GameR1\GameR1\obj\Debug\GameR1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Visual Studio 2017\GameR1\GameR1\obj\Debug\GameR1.exe
+C:\Users\Owner\Documents\Visual Studio 2017\GameR1\GameR1\obj\Debug\GameR1.pdb

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSchematic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Schematic ID="0" Name="Carbon Matrix" ResearchID="1" Type="Manufacturing" ApplicableComponentID="0">
+    <Factory>
+      <Ingredient ResourceID="0" Amount="100" Flow="IN" />
+      <Ingredient ResourceID="1" Amount="200" Flow="IN" />
+      <Ingredient ResourceID="2" Amount="10" Flow="OUT" />
+    </Factory>
+  </Schematic>
+  <Schematic ID="1" Name="Water" ResearchID="1" Type="Manufacturing" ApplicableComponentID="0">
+    <Factory>
+      <Ingredient ResourceID="3" Amount="1" Flow="IN" />
+      <Ingredient ResourceID="4" Amount="2" Flow="IN" />
+      <Ingredient ResourceID="5" Amount="1" Flow="OUT" />
+    </Factory>
+  </Schematic>
+  <Schematic ID="3" Name="Methane" ResearchID="1" Type="Manufacturing" ApplicableComponentID="0">
+    <Factory>
+      <Ingredient ResourceID="2" Amount="1" Flow="IN" />
+      <Ingredient ResourceID="3" Amount="4" Flow="IN" />
+      <Ingredient ResourceID="6" Amount="1" Flow="OUT" />
+    </Factory>
+  </Schematic>
+</ArrayOfSchematic>

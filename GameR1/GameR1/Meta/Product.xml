@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product ID="0" Name="Caviar" Credits="1"/>
+  <Product ID="1" Name="Wine" Credits="2"/>
+  <Product ID="2" Name="Spirits" Credits="2"/>
+  <Product ID="3" Name="Death Stix" Credits="2"/>
+  <Product ID="4" Name="Singing Crystals" Credits="2"/>
+  <Product ID="5" Name="Silk" Credits="2"/>
+  <Product ID="6" Name="Cigars" Credits="3"/>
+</ArrayOfProduct>

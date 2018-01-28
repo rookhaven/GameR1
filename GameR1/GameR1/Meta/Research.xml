@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfResearch xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Research ID="0" Name="Engineering" Tier="0" Type="Engineering" Cost="100">
+    <Requirements>
+      <Predecessors />
+      <Materials>
+        <ResourcePerCost ResourceID="0" Amount="1000" />
+        <ResourcePerCost ResourceID="1" Amount="2000" />
+      </Materials>
+      <Researchers>
+        <Researcher Title="Scientist" Role="Primary" />
+        <Researcher Title="Engineer" Role="Secondary" />
+        <Researcher Title="Engineer" Role="Ancillary" />
+      </Researchers>
+    </Requirements>
+  </Research>
+  <Research ID="1" Name="Structural" Tier="1" Type="Engineering" Cost="500">
+    <Requirements>
+      <Predecessors>
+        <Predecessor ResearchID="0" />
+      </Predecessors>
+      <Materials>
+        <ResourcePerCost ResourceID="0" Amount="2000" />
+        <ResourcePerCost ResourceID="1" Amount="4000" />
+        <ResourcePerCost ResourceID="2" Amount="4000" />
+      </Materials>
+      <Researchers>
+        <Researcher Title="Scientist" Role="Primary" />
+        <Researcher Title="Engineer" Role="Secondary" />
+        <Researcher Title="Engineer" Role="Ancillary" />
+      </Researchers>
+    </Requirements>
+  </Research>
+  <Research ID="2" Name="Graphene" Tier="2" Type="Engineering" Cost="2000">
+    <Requirements>
+      <Predecessors>
+        <Predecessor ResearchID="4" />
+        <Predecessor ResearchID="0" />
+      </Predecessors>
+      <Materials>
+        <ResourcePerCost ResourceID="0" Amount="2000" />
+        <ResourcePerCost ResourceID="1" Amount="4000" />
+        <ResourcePerCost ResourceID="2" Amount="4000" />
+      </Materials>
+      <Researchers>
+        <Researcher Title="Scientist" Role="Primary" />
+        <Researcher Title="Engineer" Role="Secondary" />
+        <Researcher Title="Engineer" Role="Ancillary" />
+      </Researchers>
+    </Requirements>
+  </Research>
+  <Research ID="7" Name="Computing" Tier="1" Type="Engineering" Cost="500">
+    <Requirements>
+      <Predecessors>
+        <Predecessor ResearchID="0" />
+      </Predecessors>
+      <Materials>
+        <ResourcePerCost ResourceID="0" Amount="2000" />
+        <ResourcePerCost ResourceID="1" Amount="4000" />
+        <ResourcePerCost ResourceID="2" Amount="4000" />
+      </Materials>
+      <Researchers>
+        <Researcher Title="Scientist" Role="Primary" />
+        <Researcher Title="Engineer" Role="Secondary" />
+        <Researcher Title="Engineer" Role="Ancillary" />
+      </Researchers>
+    </Requirements>
+  </Research>
+  <Research ID="1" Name="Civics" Tier="0" Type="Civics" Cost="100">
+    <Requirements>
+      <Predecessors />
+      <Materials>
+        <ResourcePerCost ResourceID="0" Amount="1000" />
+        <ResourcePerCost ResourceID="1" Amount="2000" />
+      </Materials>
+      <Researchers>
+        <Researcher Title="Scientist" Role="Primary" />
+        <Researcher Title="Engineer" Role="Secondary" />
+        <Researcher Title="Engineer" Role="Ancillary" />
+      </Researchers>
+    </Requirements>
+  </Research>
+  <Research ID="2" Name="Military" Tier="0" Type="Military" Cost="100">
+    <Requirements>
+      <Predecessors />
+      <Materials>
+        <ResourcePerCost ResourceID="0" Amount="1000" />
+        <ResourcePerCost ResourceID="1" Amount="2000" />
+      </Materials>
+      <Researchers>
+        <Researcher Title="Scientist" Role="Primary" />
+        <Researcher Title="Engineer" Role="Secondary" />
+        <Researcher Title="Engineer" Role="Ancillary" />
+      </Researchers>
+    </Requirements>
+  </Research>
+  <Research ID="3" Name="Force" Tier="0" Type="Force" Cost="100">
+    <Requirements>
+      <Predecessors />
+      <Materials>
+        <ResourcePerCost ResourceID="0" Amount="1000" />
+        <ResourcePerCost ResourceID="1" Amount="2000" />
+      </Materials>
+      <Researchers>
+        <Researcher Title="Scientist" Role="Primary" />
+        <Researcher Title="Engineer" Role="Secondary" />
+        <Researcher Title="Engineer" Role="Ancillary" />
+      </Researchers>
+    </Requirements>
+  </Research>
+</ArrayOfResearch>

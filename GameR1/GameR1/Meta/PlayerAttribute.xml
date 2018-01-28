@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPlayerAttribute xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PlayerAttribute ID="0" Name="Intelligence" BaseXP="1000" Levels="5" />
+  <PlayerAttribute ID="1" Name="Strength" BaseXP="1000" Levels="5" />
+  <PlayerAttribute ID="2" Name="Charisma" BaseXP="1000" Levels="5" />
+  <PlayerAttribute ID="3" Name="Agility" BaseXP="1000" Levels="5" />
+  <PlayerAttribute ID="4" Name="Perception" BaseXP="1000" Levels="5" />
+</ArrayOfPlayerAttribute>
